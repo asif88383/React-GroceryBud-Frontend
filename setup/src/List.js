@@ -18,8 +18,8 @@ const List = ({items, removeItem, editItem}) => {
               </button>
             </div>
           </article>
-        );
-      })};
+        )
+      })}
     </div>
   )
 }
